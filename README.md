@@ -13,6 +13,7 @@ More specifically:
 - **misc_functions.R**: miscellanea script, where utilities function are stored.
 
 #### Folder: "example"
-Simulated dataset used to produce results of **Table 1** reported in [1]; saved in .RData workspace format with name "**Table1_results.RData**".
+Results of **Table 1** reported in [1], saved in .RData workspace format with name "**Table1_results.RData**".
+Contents of the Table are stored inside the object "Tab1_res".
 
 For reproduciblity, users can also find the input data (**input_tab1.RData**) and a lite-version of the script (**reproduce_tab1.R**) used in the simulation study.
