@@ -10,7 +10,7 @@ More specifically:
 
 - **ADMM-symmetric-graphical-lasso.R**: main script, contains the Alternating Descending Method of Multipliers adapted for symmetric graphical lasso (*sgl*);
 - **colored-graphical-models-generators.R**: collateral script, it provides functions to identify colored graphs from the concentration matrix estimated via *sgl*
-- **misc_functions.R**: miscellanea script, where utilities function are stored.
+- **misc-functions.R**: miscellanea script, where utilities function are stored.
 
 ---
 
