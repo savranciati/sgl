@@ -5,7 +5,7 @@ R code repository for scripts implementing the algorithm discussed in:
 
 ## Content
 ### Folder: main
-In the main folder of the repository, users can find three main scripts that together implement the procedures described in [1].
+In the main folder of the repository, users can find the scripts that together implement procedures described in [1].
 More specifically:
 
 - **ADMM-symmetric-graphical-lasso.R**: main script, contains the Alternating Descending Method of Multipliers adapted for symmetric graphical lasso (*sgl*);
