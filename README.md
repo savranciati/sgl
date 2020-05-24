@@ -15,7 +15,13 @@ More specifically:
 ---
 
 ### Folder: "example"
-Results of **Table 1** reported in [1], saved in .RData workspace format with name "**Table1_results.RData**".
-Contents of the Table are stored inside the object "Tab1_res".
+This folder contains the reproducible code for results reported in **Table 1** of in [1].
 
-For reproduciblity, users can also find the input data (**input_tab1.RData**) and a lite-version of the script (**reproduce_tab1.R**) that creates "**Table1_results.RData**".
+By running the script **fit_sgl_example.R**, the input simulated data (**input_example.RData**) is automatically loaded, and the scripts in the main folder sourced. The results can be visualized by typing in R the name of the object *summary_perf* in the console.
+
+For reproduciblity, users can also find the a saved version of the output if one wants to avoid running the code again (**output_example.RData**).
+
+---
+# Known issues and Bugs
+
+* 
