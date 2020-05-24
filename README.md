@@ -15,7 +15,7 @@ More specifically:
 ---
 
 ### Folder: "example"
-This folder contains the reproducible code for results reported in **Table 1** of in [1].
+This folder contains the reproducible code for results reported in **Table 1** of [1].
 
 By running the script **fit_sgl_example.R**, the input simulated data (**input_example.RData**) is automatically loaded, and the scripts in the main folder sourced. The results can be visualized by typing in R the name of the object *summary_perf* in the console.
 
