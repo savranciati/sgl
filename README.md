@@ -1,7 +1,7 @@
 # *sgl*: symmetric graphical lasso
 R code repository for scripts implementing the algorithm discussed in:
 
-> [1] Ranciati, S., Roverato, A. and Luati, A. (2020). *Fused graphical lasso for brain networks with symmetries.*
+> [1] Ranciati, S., Roverato, A. Luati, A., (2021), *Fused graphical lasso for brain networks with symmetries.*, Journal of Royal Statistical Society: Series C, 70 (5), 1299- 1322;
 
 ## Repository content
 ### Folder: main
