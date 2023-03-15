@@ -1,9 +1,10 @@
-# *sgl*: symmetric graphical lasso
-R code repository for scripts implementing the algorithm discussed in:
+*FOR THE NEW ALGORITHM, SEE MAIN REPOSITORY: https://github.com/savranciati/sgl
+
+*This folder contains specifically the R code/scripts implementing the algorithm discussed in:
 
 > [1] Ranciati, S., Roverato, A. Luati, A., (2021), *Fused graphical lasso for brain networks with symmetries.*, Journal of Royal Statistical Society: Series C, 70 (5), 1299- 1322;
 
-## Repository content
+## This folder content
 ### Folder: main
 In the main folder of the repository, users can find the scripts that together implement procedures described in [1].
 More specifically:
@@ -22,6 +23,4 @@ By running the script **fit_sgl_example.R**, the input simulated data (**input_e
 For reproduciblity, users can also find the a saved version of the output if one wants to avoid running the code again (**output_example.RData**).
 
 ---
-# Known issues and Bugs
-
 * 
