@@ -2,7 +2,7 @@
 R code repository for scripts implementing the symmetric graphical lasso (SGL).
 Folders and files organization is emulating R package structure. The sub-folder "RoyalC-version-SGL" contains a (previous) version of the code only pertaining to the associated paper published in 2021 on the *Journal of Royal Statistical Society: Series C*.
 
-The code can be installed as a package by running in R:
+The latest code can be installed as a package by running in R:
 
 ```
 library(devtools)
